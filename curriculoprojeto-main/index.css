@@ -1,0 +1,30 @@
+table, tr, th,td{
+
+    border: solid;
+}
+
+
+p{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h2{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+li{
+
+    font-size: 18px;
+}
+
+
+h1{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
